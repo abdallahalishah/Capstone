@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=xLoc
+comment0.target=Pipe(int)
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Pipe\r\n
+comment1.params=
+comment1.target=void\ move()
+comment2.params=bird
+comment2.target=boolean\ checkCollision(java.awt.Rectangle)
+comment3.params=
+comment3.target=int\ getWidth()
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics)
+numComments=5
